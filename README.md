@@ -8,5 +8,4 @@ This is a beautiful, dark-mode enabled weather application that allows you to ch
 * Simple and intuitive design
 
 
-https://user-images.githubusercontent.com/47936815/233819518-20f8d69a-1a02-4c3f-a29c-95505e94eda2.mov
-
+![ClimateDemo](https://user-images.githubusercontent.com/47936815/235284682-7dc94b0e-5857-4abd-946b-fbfb04e56823.gif)
